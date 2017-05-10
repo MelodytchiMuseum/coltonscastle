@@ -1,2 +1,0 @@
-# coltonscastle
-Simple website.
