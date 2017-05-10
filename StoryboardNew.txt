@@ -1,0 +1,39 @@
+BUSINESS: Colton's Castle
+PURPOSE: Display information about my games.
+I'm going to use materials from games I haven't finished (since I rarely finish anything anyway). Some may be really old.
+
+PAGES
+	-Home page
+	-About us
+	-Action Assassins (the shooter one)
+	-Frontline Strike
+	-Gem Adventure (platformer)
+	-Space Reaper
+	-Peanut Butter Taffy Sucks
+	
+ALL PAGES (reminder)
+	-Navigation menu
+	-At least one image
+	-Background
+	-Title
+	-Copyright statement at bottom
+		-Name required
+		-Disclaimer that the business is fictional
+	
+HOME PAGE
+	-Shows brief information about the "company".
+	-Shows list of games (represented by banners), with brief descriptions underneath.
+		-Each banner links to the game's respective page.
+		-"Unfinished" (ones that cannot even pass for "finished" by screenshots alone) games will be in a separate "upcoming" list.
+		-Banners are all equal size.
+		
+ABOUT US
+		
+GAME PAGE
+	-Displays title of the game.
+	-Brief description of the game underneath.
+	-Fake download link.
+		-Clicking on a download link will bring up an error saying the download is not available at this time.
+	-Screenshots of game.
+	-More info, if any.
+		-For games such as Action Assassins, this may include a "recent update".
